@@ -1,0 +1,5 @@
+JavaScript was made for the masses,
+It lacked types, and modules, and classes.
+ButITbecame quite the giant,
+BecauseITran on server and cliant,
+UntilITcrashed both, despite 100 test passes.
